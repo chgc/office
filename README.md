@@ -1,3 +1,6 @@
+線上 angularjs 讀書會
+https://www.facebook.com/groups/1345890212093830/
+
 線上 reactjs 讀書會
 https://www.facebook.com/groups/906048196159262/		
 
